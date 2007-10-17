@@ -1,0 +1,4 @@
+#summary Richard Suchenwirth "home" page
+
+Richard Suchenwirth, see http://wiki.tcl.tk/1683
+
